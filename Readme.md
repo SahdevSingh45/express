@@ -5,6 +5,7 @@
 **This project has a [Code of Conduct][].**
 
 ## Table of contents
+Author is Sahdev Singh
 
 * [Installation](#Installation)
 * [Features](#Features)
